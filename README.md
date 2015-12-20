@@ -1,3 +1,5 @@
+What is this about? See here - https://wiki.archlinux.org/index.php/Hybrid_graphics#Fully_Power_Down_Discrete_GPU
+
 quick checkout, build and install this new kernel module
 ```
 $ git clone < this repo url >
